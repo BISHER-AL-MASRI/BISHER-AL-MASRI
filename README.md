@@ -6,7 +6,7 @@ Web Devloper
 
 I'm a web developer and desinger, discord bot creater, etc. I've been coding for almost a year and ive enjoyed my journey. I love coding since i can do what every i desire, i can make a game, i can make a website, i can make an ai, anything i want. This is why i love coding and why you should learn it to!
 
-* 🌍  I'm based in Canadian
+* 🌍  I'm Canadian
 * 🖥️  See my portfolio at [Bisher Almasri](http://bisheralmasri.vercel.app/)
 * ✉️  You can contact me at [bbgyttv@gmail.com](mailto:bbgyttv@gmail.com)
 * 🚀  I'm currently working on [Nothing](http://www.github.com/BisherAlmasri)
