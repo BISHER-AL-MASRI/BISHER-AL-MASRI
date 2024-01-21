@@ -7,14 +7,14 @@ Web Devloper
 I'm a web developer and desinger, discord bot creater, etc. I've been coding for almost a year and ive enjoyed my journey. I love coding since i can do what every i desire, i can make a game, i can make a website, i can make an ai, anything i want. This is why i love coding and why you should learn it to!
 
 * 🌍  I'm Canadian
-* 🖥️  See my portfolio at [Bisher Almasri](http://bisheralmasri.vercel.app/)
+* 🖥️  See my portfolio at [Bisher Almasri](http://bisheralmasri.me/)
 * ✉️  You can contact me at [bbgyttv@gmail.com](mailto:bbgyttv@gmail.com)
-* 🚀  I'm currently working on [Nothing](http://www.github.com/BisherAlmasri)
+* 🚀  I'm currently working on [Nothing](http://www.github.com/BISHER-AL-MASRI)
 * 🧠  I'm learning React and Pycord
 * 🤝  I'm open to collaborating on Anything
 
-<a href="https://www.github.com/BisherAlmasri" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/BisherAlmasri?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/BISHER-AL-MASRI" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/BISHER-AL-MASRI?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
@@ -46,11 +46,11 @@ src="https://img.shields.io/github/followers/BisherAlmasri?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/BisherAlmasri"><img src="https://github-readme-stats.vercel.app/api?username=BisherAlmasri&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BisherAlmasri's GitHub stats" /></a>
+<a href="http://www.github.com/BISHER-AL-MASRI"><img src="https://github-readme-stats.vercel.app/api?username=BISHER-AL-MASRI&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BISHER-AL-MASRI's GitHub stats" /></a>
 
-<a href="http://www.github.com/BisherAlmasri"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BisherAlmasri&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/BISHER-AL-MASRI"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BISHER-AL-MASRI&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/BisherAlmasri"><img src="https://activity-graph.herokuapp.com/graph?username=BisherAlmasri&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/BISHER-AL-MASRI"><img src="https://activity-graph.herokuapp.com/graph?username=BISHER-AL-MASRI&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="http://www.github.com/BisherAlmasri" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BisherAlmasri&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/BISHER-AL-MASRI" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BISHER-AL-MASRI&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
