@@ -9,7 +9,7 @@ I'm a web developer and desinger, discord bot creater, etc. I've been coding for
 * 🌍  I'm Canadian
 * 🖥️  See my portfolio at [Bisher Almasri](http://bisheralmasri.me/)
 * ✉️  You can contact me at [bbgyttv@gmail.com](mailto:bbgyttv@gmail.com)
-* 🚀  I'm currently working on [Nothing](http://www.github.com/BISHER-AL-MASRI)
+* 🚀  I'm currently working on [Svlete, and Linux Distro/Operating System](http://www.github.com/BISHER-AL-MASRI)
 * 🧠  I'm learning React and Pycord
 * 🤝  I'm open to collaborating on Anything
 
