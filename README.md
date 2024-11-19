@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bisher Almasri
 ===============================
 
-Web Devloper
+Programmer
 ------------
 
 I'm a web developer and desinger, discord bot creater, etc. I've been coding for almost a year and ive enjoyed my journey. I love coding since i can do what every i desire, i can make a game, i can make a website, i can make an ai, anything i want. This is why i love coding and why you should learn it to!
@@ -9,8 +9,8 @@ I'm a web developer and desinger, discord bot creater, etc. I've been coding for
 * 🌍  I'm Canadian
 * 🖥️  See my portfolio at [Bisher Almasri](http://bisheralmasri.me/)
 * ✉️  You can contact me at [bbgyttv@gmail.com](mailto:bbgyttv@gmail.com)
-* 🚀  I'm currently working on [Svlete, and Linux Distro/Operating System](http://www.github.com/BISHER-AL-MASRI)
-* 🧠  I'm learning React and Pycord
+* 🚀  I'm currently working on [Snarp and Hidden Projects](http://www.github.com/BISHER-AL-MASRI)
+* 🧠  I'm learning Rust, and Next.js
 * 🤝  I'm open to collaborating on Anything
 
 <a href="https://www.github.com/BISHER-AL-MASRI" target="_blank" rel="noreferrer"><img
