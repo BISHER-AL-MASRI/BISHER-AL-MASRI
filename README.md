@@ -8,7 +8,7 @@ Im a programmer that loves learning new stuff to do. I often learn new languages
 
 *   🌍  I'm based in Canada
 *   🖥️  See my portfolio at [Here](http://bisheralmasri.vercel.app)
-*   ✉️  You can contact me at [bbgyttv@gmail.com](mailto:bbgyttv@gmail.com)
+*   ✉️  You can contact me [bbgyttv@gmail.com](mailto:bbgyttv@gmail.com)
 *   🚀  I'm currently working on [Supa Shell](http://github.com/bisher-al-masri/supa-shell)
 *   🧠  I'm learning C++ and Unreal Engine
 *   🤝  I'm open to collaborating on Anything
