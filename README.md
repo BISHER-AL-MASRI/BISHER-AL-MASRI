@@ -7,7 +7,7 @@ A Programmer
 Im a programmer that loves learning new stuff to do. I often learn new languages an libraries and make my own projects. I have gotten into coding since 2020 (when i was 10!). I can code in over 14 languages but best at Rust, Typescript, Python, and much more. I also love making games, I usually make them in unity (PS: i love FPS games)
 
 *   🌍  I'm based in Canada
-*   🖥️  See my portfolio at [Here](http://bisheralmasri.vercel.app)
+*   🖥️  See my portfolio [Here](http://bisheralmasri.vercel.app)
 *   ✉️  You can contact me [bbgyttv@gmail.com](mailto:bbgyttv@gmail.com)
 *   🚀  I'm currently working on [Supa Shell](http://github.com/bisher-al-masri/supa-shell)
 *   🧠  I'm learning C++ and Unreal Engine
