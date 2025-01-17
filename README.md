@@ -23,6 +23,4 @@ Im a programmer that loves learning new stuff to do. I often learn new languages
 
 [![Bisher Almasri's GitHub stats](https://github-readme-stats-rho-blue.vercel.app/api?username=BISHER-AL-MASRI&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/BISHER-AL-MASRI)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BISHER-AL-MASRI&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
-
 ![Top Langs](https://github-readme-stats-rho-blue.vercel.app/api/top-langs/?username=BISHER-AL-MASRI&size_weight=0.25&count_weight=0.5&langs_count=8&hide=makefile,shell,html,css,javascript&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
